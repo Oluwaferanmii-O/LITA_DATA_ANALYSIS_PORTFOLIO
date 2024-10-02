@@ -18,6 +18,7 @@ This project focuses on analyzing the salary provided in an excel spreadsheet. B
 
 ### Tools Used
 Microsoft Excel [Download Here] (https://www.microsoft.com)
+
  *For Data Cleaning
  *For Analysis
  *For Data Visualization
