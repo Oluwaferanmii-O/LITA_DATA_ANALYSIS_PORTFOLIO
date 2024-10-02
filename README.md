@@ -17,10 +17,16 @@ This project focuses on analyzing the salary provided in an excel spreadsheet. B
    * The use of conditionals such as MAXIFS and MINIFS to get the highest and least salary of some states
 
 ### Tools Used
-Microsoft Excel [Download Here] (https://www.microsoft.com)
+1. Microsoft Excel [Download Here] (https://www.microsoft.com)
 
  *For Data Cleaning
  *For Analysis
  *For Data Visualization
  
-Github for Portfolio Building
+2.Github for Portfolio Building
+
+### Data Cleaning and Preparation
+In the initial phase of the Data cleaning, we perform the following action;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
