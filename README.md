@@ -9,7 +9,7 @@ This project focuses on analyzing the salary provided in an excel spreadsheet. B
 #### Key Tasks and Findings
 1. Data Calculation and Summary
    * Calculated the grand total of salaries using the SUM function
-   * Determined the average salary using the AVERAGE funtion
+   * Determined the average salary using the ```MS EXCEL AVERAGE funtion
    * Identified the highest and lowest salaries using the MAX and MIN funtions
    * Calculated the total number of staff using the COUNTA function
 2. Rank Calculation
